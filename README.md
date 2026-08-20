@@ -77,20 +77,24 @@ Hesam[^1]
 Rezaei[^2]
 
 
-[^1]Rezaei
-[^2]Fard
+[^1]:Rezaei
+[^2]:Fard
 
 
-[!NOTE]
-Hesam
+> [!NOTE]
+> Hesam
 
-[!WARNING]
-Hesam
+> [!WARNING]
+> Hesam
 
-```mermiad
-graphTD;
-a--->b;
-a--->c;
-b--->d;
-c--->d;
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 ```
+
+Hesam<sub>Rezaei</sub>
+
+H<sub>2</sub><sub>o</sub>
