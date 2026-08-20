@@ -11,4 +11,8 @@ def my_decorator(func):
 
 @my_decorator
 def test():
-    return 11
+    return 12
+
+
+# %%
+print("hesam")
