@@ -16,3 +16,4 @@ def test():
 
 # %%
 print("hesam")
+print("test GPG")
